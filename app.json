@@ -15,27 +15,27 @@
     ],
   "success_url": "https://t.me/LazyDeveloper",
   "website": "https://github.com/LazyDeveloperr",
-  "repository": "https://github.com/LazyDeveloperr/test100",
+  "repository": "https://github.com/Mercury512/Url-uploader-",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
       "value": "ANYTHING"
     },
     "TG_BOT_TOKEN": {
-      "description": "Your bot token, as a string.",
-      "value": ""
+      "description": "Get it from Godfather",
+      "value": "7363400875:AAFoRpKKfvEOgfzzIzYHxwp-h-CCUAxpUh0"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "28993901"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "57256c4196b08ffaea61271aca07d7d1"
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot (your id).",
-      "value": ""
+      "value": "1273492006"
     },
     "DEF_THUMB_NAIL_VID_S": {
       "description": "default thumbnail to be used in the videos. Incase, youtube-dl is unable to find a thumbnail.",
@@ -53,7 +53,7 @@
     },
     "LAZY_DEVELOPER": {
       "description": "Give ADMIN id in this field ",
-      "value": "",
+      "value": "1273492006",
       "required": true
     }
   },
